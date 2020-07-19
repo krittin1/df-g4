@@ -12,7 +12,7 @@
   - *Don’t install unnecessary packages*
   - *Decouple applications*
   - *Minimize the number of layers*
-  - [*Sort multi-line arguments*](https://github.com/krittin1/df-g4/blob/develop/sort-multiline-arguments/README.md)
+  - [*Sort multi-line arguments*](https://github.com/krittin1/df-g4/blob/master/sort-multiline-arguments/README.md)
   - *Leverage build cache*
   
   
