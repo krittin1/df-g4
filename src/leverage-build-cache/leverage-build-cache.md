@@ -11,6 +11,11 @@
 ![Image](https://raw.githubusercontent.com/krittin1/df-g4/master/src/leverage-build-cache/27.png)
   
 </div>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/krittin1/df-g4/master/src/leverage-build-cache/27.png" />
+</p>
+
 <br>
 
 T. Dumrongthawatchai. (2019, September 10). Docker EP. 6: ลองใช้ Docker กับโปรเจคของเรากันเถอะ. Retrived from https://dekcrack.com/docker-ep-6-ลองใช้-docker-กับโปรเจคของเรากันเถอะ
