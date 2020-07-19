@@ -7,10 +7,7 @@
 
 * เริ่มด้วยการเทียบคำสั่งใน parent image ซึ่งอยู่ใน cache กับ child image ว่ามีคำสั่งเหมือนกันไหม ถ้าเหมือนกันจะมีการ `Using cache` เกิดขึ้น
 <br>
-<div align="center">
-![Image](https://raw.githubusercontent.com/krittin1/df-g4/master/src/leverage-build-cache/27.png)
-  
-</div>
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/krittin1/df-g4/master/src/leverage-build-cache/27.png" />
@@ -18,4 +15,4 @@
 
 <br>
 
-T. Dumrongthawatchai. (2019, September 10). Docker EP. 6: ลองใช้ Docker กับโปรเจคของเรากันเถอะ. Retrived from https://dekcrack.com/docker-ep-6-ลองใช้-docker-กับโปรเจคของเรากันเถอะ
+######T. Dumrongthawatchai. (2019, September 10). Docker EP. 6: ลองใช้ Docker กับโปรเจคของเรากันเถอะ. Retrived from https://dekcrack.com/docker-ep-6-ลองใช้-docker-กับโปรเจคของเรากันเถอะ
