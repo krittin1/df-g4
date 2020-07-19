@@ -13,6 +13,6 @@
 </p>
 
 
-<div align="center">
+
 ###### T. Dumrongthawatchai. (2019, September 10). Docker EP. 6: ลองใช้ Docker กับโปรเจคของเรากันเถอะ. Retrived from https://dekcrack.com/docker-ep-6-ลองใช้-docker-กับโปรเจคของเรากันเถอะ
-</div>
+
