@@ -7,6 +7,6 @@
 
 * เริ่มด้วยการเทียบคำสั่งใน parent image ซึ่งอยู่ใน cache กับ child image ว่ามีคำสั่งเหมือนกันไหม ถ้าเหมือนกันจะมีการ `Using cache` เกิดขึ้น
 
-![example1](https://kubz.space/photos/1/docker-ep-6/27.png)
+![example](https://kubz.space/photos/1/docker-ep-6/27.png)
 
 T. Dumrongthawatchai. (2019, September 10). Docker EP. 6: ลองใช้ Docker กับโปรเจคของเรากันเถอะ. Retrived from https://dekcrack.com/docker-ep-6-ลองใช้-docker-กับโปรเจคของเรากันเถอะ
