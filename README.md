@@ -1,9 +1,7 @@
-# Index
 # [Best practices for writing Dockerfiles](https://docs.docker.com/develop/develop-images/dockerfile_best-practices/) :spiral_notepad:
-## Suthinan Musitmani
+
 ![Docker](https://miro.medium.com/max/405/1*UdM3Isk3gfnEOX7r6lWI8A.png)
 
-* [Pipe Dockerfile through stdin](src/pipe-dockerfile-through-stdin.md)
 ## [General guidelines and recommendations](https://docs.docker.com/develop/develop-images/dockerfile_best-practices/)
   - *Create ephemeral containers*
   - *Understand build context*
