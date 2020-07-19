@@ -1,12 +1,5 @@
 # Index
 ## Suthinan Musitmani
-### Suthinan Musitmani
-* [Pipe Dockerfile through stdin](src/pipe-dockerfile-through-stdin.md)
-* [Exclude with .dockerignore](src/exclude-with-dockerignore.md)
-* [Use multi-stage builds](src/use-multi-stage-builds.md)
-* [Don’t install unnecessary packages](src/dont-install-unnecessary-packages.md)
-
-
 # [Best practices for writing Dockerfiles](https://docs.docker.com/develop/develop-images/dockerfile_best-practices/) :spiral_notepad:
 
 ![Docker](https://miro.medium.com/max/405/1*UdM3Isk3gfnEOX7r6lWI8A.png)
