@@ -50,3 +50,5 @@ RUN echo $VERSION > image_version
 ```
 
 คำสั่ง `ARG` จะใช้ไม่ได้กับคำสั่งหลังจาก `FROM` เพราะอยู่นอก build stage
+ถ้าเป็นไปได้ อาจจะเริ่มต้นใช้ image แบบ official image ได้โดยทำการ pull image ได้จาก registry อย่าง Docker Hub ซึ่งในบทความแนะนำ
+ตัว  [`Alpine image`](https://hub.docker.com/_/alpine/) เพราะใช้พื้นที่น้อยและทำงานกับ Linux
