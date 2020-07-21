@@ -23,5 +23,5 @@
 
 ```
 การใช้ `tag` หรือ `digest` จะมีหรือไม่มีก็ได้ หากไม่มีการเลือกตัวใดตัวหนึ่ง builder จะใช้ `tag` ตัวล่าสุดเป็นค่า default builder จะคืนค่า 
-error ถ้าสามารถหา `tag` เจอ
+error ถ้าไม่สามารถหา `tag` เจอ
 สามารถใช้ `--platform` flag ในการระบุ platform ของ image ในกรณีที่ `FROM` อ้างอิงถึงหลาย platform
