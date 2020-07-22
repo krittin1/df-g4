@@ -34,5 +34,5 @@ parent image ซึ่งได้รับมาจาก image ของเร
 ```
 หากต้องการดู label ของ image ให้ใช้คำสั่ง `docker image inspect` ใน cli และสามารถใช้ตัวเลือก `--format` เพื่อแสดงเฉพาะแต่ label
 ```
-docker image inspect --format='' myimage
+    docker image inspect --format='' myimage
 ```
