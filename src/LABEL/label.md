@@ -19,10 +19,10 @@
 ```
 
 ```dockerfile
-      # Set multiple labels at once, using line-continuation characters to break long lines
-      LABEL vendor=ACME\ Incorporated \
-      com.example.is-beta= \
-      com.example.is-production="" \
-      com.example.version="0.0.1-beta" \
-      com.example.release-date="2015-02-12"
+    # Set multiple labels at once, using line-continuation characters to break long lines
+    LABEL vendor=ACME\ Incorporated \
+    com.example.is-beta= \
+    com.example.is-production="" \
+    com.example.version="0.0.1-beta" \
+    com.example.release-date="2015-02-12"
 ```
