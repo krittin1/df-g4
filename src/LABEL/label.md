@@ -4,7 +4,7 @@
 จะเริ่มต้นด้วยคำสั่ง `LABEL` และคู่ key-value pairs เป็นคำสั่งที่ใช้เพิ่ม label ต่างๆ ซึ่งประกาศได้หลายค่าใน `Dockerfile` label จะมีอยู่ใน
 parent image ซึ่งได้รับมาจาก image ของเรา หากมี label อยู่แล้ว แต่มีค่าต่างกัน ค่าที่ใช้ล่าสุดจะแทนที่ค่าที่ตั้งไว้ก่อนหน้านี้
 
-**ตัวอย่างที่ 1: การประกาศ label
+**ตัวอย่างที่ 1: การประกาศ label**
 ```dockerfile
     LABEL <key>=<value> <key>=<value> <key>=<value> ...
 ```
@@ -31,4 +31,8 @@ parent image ซึ่งได้รับมาจาก image ของเร
     com.example.is-production="" \
     com.example.version="0.0.1-beta" \
     com.example.release-date="2015-02-12"
+```
+หากต้องการดู label ของ image ให้ใช้คำสั่ง `docker image inspect` ใน cli และสามารถใช้ตัวเลือก `--format` เพื่อแสดงเฉพาะแต่ label
+```
+docker image inspect --format='' myimage
 ```
