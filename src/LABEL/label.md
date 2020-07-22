@@ -23,7 +23,7 @@ parent image ซึ่งได้รับมาจาก image ของเร
     # Set multiple labels on one line
     LABEL com.example.version="0.0.1-beta" com.example.release-date="2015-02-12"
 ```
-ใน image สามารถมีได้หลาย labbel แต่เราสามารถรวม label ต่างๆ เป็น อันเดียวได้ 
+ใน image สามารถมีได้หลาย label แต่เราสามารถรวม label ต่างๆ เป็น อันเดียวได้ 
 ```dockerfile
     # Set multiple labels at once, using line-continuation characters to break long lines
     LABEL vendor=ACME\ Incorporated \
